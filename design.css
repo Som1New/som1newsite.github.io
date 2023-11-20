@@ -1,0 +1,90 @@
+.yes {
+    border-radius: 120px;
+    background-color: white;
+    color: black;
+    padding: 20px 200px;
+    border: 3px solid;
+    font-size: 32px;
+    transition-duration: 0.4s;
+    border-color: #1eff62;
+    font-family: Gill Sans;
+    float: left;
+}
+.yes:hover {
+    background-color: #1eff62;
+}
+.yes:active {
+    background-color: #14b845;
+    color: white;
+    border-color: #15b846;
+}
+.no {
+    border-radius: 120px;
+    background-color: white;
+    color: black;
+    padding: 20px 200px;
+    border: 3px solid;
+    font-size: 32px;
+    transition-duration: 0.4s;
+    border-color: #ff1e1e;
+    font-family: Gill Sans;
+    float: right;
+}
+.no:hover {
+    background-color: #ff1e1e;
+}
+.no:active {
+    background-color: #aa1414;
+    color: white;
+    border-color: rgb(169, 20, 20);
+}
+.idk {
+    border-radius: 120px;
+    background-color: white;
+    color: black;
+    padding: 20px 200px;
+    border: 3px solid;
+    font-size: 32px;
+    transition-duration: 0.4s;
+    border-color: lightgrey;
+    font-family: Gill Sans;
+}
+.idk:hover {
+    background-color: lightgrey;
+}
+.idk:active {
+    background-color: grey;
+    color: white;
+    border-color: grey;
+}
+.home {
+    border-radius: 120px;
+    background-color: white;
+    color: black;
+    padding: 20px 200px;
+    border: 3px solid;
+    font-size: 32px;
+    transition-duration: 0.4s;
+    border-color: lightgrey;
+    font-family: Gill Sans;
+}
+.home:hover {
+    background-color: lightgrey;
+}
+.home:active {
+    background-color: grey;
+    color: white;
+    border-color: grey;
+}
+body {
+    text-align: center;
+    margin-top: 1.5in;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p {
+    font-family: Sans;
+}
+h1 {
+    font-family: Sans;
+}
